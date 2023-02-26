@@ -2,21 +2,21 @@
     background-color: #a74646;
 }*/
 
-.number-1,
-.number-3,
-.number-5 {
-    background-color: hsla(0, 100%, 50%, 0.502);
-    font-family: "verdana",DejaVu Sans, sans-serif ;
+.odd {
+    background-color: #ff000080;
+    font-family: verdana, "DejaVu Sans", sans-serif ;
+}
+
+.adjust-font-size {
     font-size: 24px;
 }
 
 #number-2 {
     color: blue;
-    font-size: 32px;
+    font-size: 36px;
 }
 
 #number-4 {
     background-color: #00ff00;
-    font-size: 24px;
     font-weight: 700;
 }
